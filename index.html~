@@ -2,7 +2,7 @@
 <html lang = "en-US">
 <head>
     <meta charset = "UTF-8">
-    <title>Cube Lighting</title>
+    <title>Assignment 5 - Framework</title>
 </head>
 <body>
     <canvas id = "canvas-main" width = "800" height = "800"></canvas>
